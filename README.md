@@ -9,8 +9,6 @@ After this just run:
 docker-compose up
 ```
 
-Access http
-
 ## Manual
 
 To run manually check the redme inside the backend and frontend
